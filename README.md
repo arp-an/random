@@ -4,3 +4,4 @@
 - [Neumorphic Elements](https://mrarpanm.github.io/building-blocks/NeumorphicElements)
 - [Login Form](https://mrarpanm.github.io/building-blocks/LoginForm)
 - [Wave animation](https://mrarpanm.github.io/building-blocks/WaveAnimation)
+- [Typing Effect](https://mrarpanm.github.io/building-blocks/TypingEffect)
